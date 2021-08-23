@@ -29,3 +29,18 @@ brew install golangci-lint
 
 Также смотреть методичку **Урок 6. Линтеры_продвинутый уровень** `[/go-best]`
 
+---
+
+### Git hooks
+
+#### Pre-commit
+
+Install:
+
+**macOS** `brew install pre-commit`
+
+- [x] v2.14.0
+
+
+
+---
