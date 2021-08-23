@@ -18,9 +18,14 @@
 brew install golangci-lint
 ```
 
+#### GitHub actions
+
+- смотреть файл `./.github/workflows/lint.yml`
+
 ---
 
 > Для запуска линтера запускаем
 `$ golangci-lint run`
 
 Также смотреть методичку **Урок 6. Линтеры_продвинутый уровень** `[/go-best]`
+
